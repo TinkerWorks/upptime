@@ -6,7 +6,7 @@ sites:
   - name: TinkerHaus Nextcloud
     url: https://nextcloud.tinker.haus
   - name: TinkerWorks Jenkins
-    url: https://jenkins.tinker.works
+    url: https://kenjins.tinker.haus/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
