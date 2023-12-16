@@ -1,7 +1,7 @@
 url: https://nextcloud.tinker.haus
-status: down
-code: 502
-responseTime: 663
-lastUpdated: 2023-12-16T04:37:16.316Z
+status: up
+code: 200
+responseTime: 1189
+lastUpdated: 2023-12-16T04:51:33.913Z
 startTime: 2023-11-29T07:37:15.342Z
 generator: Upptime <https://github.com/upptime/upptime>
