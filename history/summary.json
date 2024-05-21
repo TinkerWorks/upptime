@@ -4,9 +4,9 @@
     "url": "https://nextcloud.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.tinker.haus.ico",
     "slug": "tinker-haus-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "94.02%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "89.06%",
     "uptimeMonth": "92.26%",
     "uptimeYear": "94.02%",
@@ -88,8 +88,7 @@
       "2023-12-21": 8,
       "2023-12-20": 19,
       "2023-12-19": 116,
-      "2023-12-17": 22,
-      "2023-12-16": 14
+      "2023-12-17": 22
     }
   },
   {
@@ -98,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kenjins.tinker.haus.ico",
     "slug": "tinker-haus-jenkins",
     "status": "down",
-    "uptime": "75.10%",
+    "uptime": "75.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.10%",
+    "uptimeYear": "75.12%",
     "time": 635,
     "timeDay": 557,
     "timeWeek": 618,
