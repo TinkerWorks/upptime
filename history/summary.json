@@ -6,17 +6,16 @@
     "slug": "tinker-haus-nextcloud",
     "status": "up",
     "uptime": "95.70%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "97.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.22%",
     "uptimeYear": "95.70%",
     "time": 1176,
-    "timeDay": 1192,
-    "timeWeek": 1036,
-    "timeMonth": 1327,
+    "timeDay": 1174,
+    "timeWeek": 1013,
+    "timeMonth": 1318,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2024-10-10": 9,
       "2024-09-30": 25,
       "2024-09-27": 76,
       "2024-09-21": 578,
@@ -89,7 +88,7 @@
       "2024-01-13": 613,
       "2024-01-12": 9,
       "2024-01-11": 960,
-      "2024-01-10": 1012
+      "2024-01-10": 1019
     }
   }
 ]
