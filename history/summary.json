@@ -4,18 +4,19 @@
     "url": "https://nextcloud.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.tinker.haus.ico",
     "slug": "tinker-haus-nextcloud",
-    "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "88.92%",
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "93.53%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "97.12%",
     "time": 1229,
-    "timeDay": 7352,
+    "timeDay": 2623,
     "timeWeek": 3562,
     "timeMonth": 2018,
     "timeYear": 1213,
     "dailyMinutesDown": {
+      "2024-12-01": 0,
       "2024-11-30": 159,
       "2024-11-23": 75,
       "2024-11-22": 498,
@@ -87,7 +88,7 @@
       "2024-01-26": 83,
       "2024-01-25": 9,
       "2024-01-24": 29,
-      "2024-01-20": 54
+      "2024-01-20": 43
     }
   }
 ]
