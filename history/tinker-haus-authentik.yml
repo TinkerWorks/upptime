@@ -1,7 +1,7 @@
 url: https://authentik.tinker.haus
-status: up
-code: 200
-responseTime: 1268
-lastUpdated: 2025-12-14T23:14:06.580Z
+status: down
+code: 503
+responseTime: 1664
+lastUpdated: 2025-12-15T04:09:49.855Z
 startTime: 2025-08-28T07:59:21.981Z
 generator: Upptime <https://github.com/upptime/upptime>
