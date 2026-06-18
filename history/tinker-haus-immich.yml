@@ -1,7 +1,7 @@
 url: https://immich.tinker.haus
-status: down
-code: 503
-responseTime: 849
-lastUpdated: 2026-06-18T00:12:58.313Z
+status: up
+code: 200
+responseTime: 788
+lastUpdated: 2026-06-18T02:05:55.323Z
 startTime: 2025-08-28T07:59:23.438Z
 generator: Upptime <https://github.com/upptime/upptime>
