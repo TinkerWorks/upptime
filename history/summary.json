@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "76.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.58%",
+    "uptimeWeek": "94.70%",
     "uptimeMonth": "71.67%",
     "uptimeYear": "76.36%",
     "time": 1785,
@@ -132,16 +132,16 @@
     "url": "https://immich.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/immich.tinker.haus.ico",
     "slug": "tinker-haus-immich",
-    "status": "down",
-    "uptime": "76.59%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "71.67%",
-    "uptimeYear": "76.59%",
+    "status": "up",
+    "uptime": "76.57%",
+    "uptimeDay": "92.15%",
+    "uptimeWeek": "93.58%",
+    "uptimeMonth": "71.41%",
+    "uptimeYear": "76.57%",
     "time": 793,
-    "timeDay": 849,
-    "timeWeek": 650,
-    "timeMonth": 685,
+    "timeDay": 819,
+    "timeWeek": 665,
+    "timeMonth": 688,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-08-28": 66,
@@ -241,7 +241,7 @@
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 229,
-      "2026-06-18": 0
+      "2026-06-18": 113
     }
   },
   {
@@ -249,17 +249,17 @@
     "url": "https://nextcloud.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.tinker.haus.ico",
     "slug": "tinker-haus-nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "69.13%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "92.17%",
     "uptimeWeek": "93.58%",
-    "uptimeMonth": "71.67%",
+    "uptimeMonth": "71.41%",
     "uptimeYear": "61.16%",
-    "time": 4151,
-    "timeDay": 612,
-    "timeWeek": 1168,
-    "timeMonth": 1097,
-    "timeYear": 1286,
+    "time": 4145,
+    "timeDay": 1126,
+    "timeWeek": 1221,
+    "timeMonth": 1113,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2025-06-19": 1378,
       "2025-08-28": 586,
@@ -439,7 +439,7 @@
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 229,
-      "2026-06-18": 0
+      "2026-06-18": 113
     }
   }
 ]
