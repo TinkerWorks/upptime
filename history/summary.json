@@ -4,17 +4,17 @@
     "url": "https://authentik.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/authentik.tinker.haus.ico",
     "slug": "tinker-haus-authentik",
-    "status": "down",
-    "uptime": "78.13%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "78.13%",
-    "time": 1785,
-    "timeDay": 1472,
-    "timeWeek": 1619,
-    "timeMonth": 1784,
-    "timeYear": 1785,
+    "status": "up",
+    "uptime": "78.12%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "78.12%",
+    "time": 1786,
+    "timeDay": 1651,
+    "timeWeek": 1662,
+    "timeMonth": 1791,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2025-08-28": 67,
       "2025-09-01": 17,
@@ -125,7 +125,7 @@
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 230,
-      "2026-07-11": 1
+      "2026-07-11": 55
     }
   },
   {
@@ -133,16 +133,16 @@
     "url": "https://immich.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/immich.tinker.haus.ico",
     "slug": "tinker-haus-immich",
-    "status": "down",
-    "uptime": "78.33%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "78.33%",
+    "status": "up",
+    "uptime": "78.32%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "78.32%",
     "time": 787,
-    "timeDay": 768,
-    "timeWeek": 662,
-    "timeMonth": 700,
+    "timeDay": 713,
+    "timeWeek": 655,
+    "timeMonth": 697,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2025-08-28": 66,
@@ -243,7 +243,7 @@
       "2026-06-03": 1440,
       "2026-06-02": 229,
       "2026-06-18": 113,
-      "2026-07-11": 0
+      "2026-07-11": 55
     }
   },
   {
@@ -251,16 +251,16 @@
     "url": "https://nextcloud.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.tinker.haus.ico",
     "slug": "tinker-haus-nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "69.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "67.67%",
-    "time": 3993,
-    "timeDay": 999,
-    "timeWeek": 1197,
-    "timeMonth": 1423,
+    "time": 3987,
+    "timeDay": 1071,
+    "timeWeek": 1199,
+    "timeMonth": 1417,
     "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-08-28": 586,
@@ -419,7 +419,7 @@
       "2026-06-03": 1440,
       "2026-06-02": 229,
       "2026-06-18": 113,
-      "2026-07-11": 0
+      "2026-07-11": 55
     }
   }
 ]
