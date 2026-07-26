@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/authentik.tinker.haus.ico",
     "slug": "tinker-haus-authentik",
     "status": "down",
-    "uptime": "78.95%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "78.95%",
+    "uptime": "78.93%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "78.93%",
     "time": 1804,
     "timeDay": 1296,
     "timeWeek": 2086,
@@ -129,7 +129,7 @@
       "2026-07-12": 57,
       "2026-07-18": 197,
       "2026-07-19": 220,
-      "2026-07-26": 1
+      "2026-07-26": 121
     }
   },
   {
@@ -138,11 +138,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.tinker.haus.ico",
     "slug": "tinker-haus-immich",
     "status": "down",
-    "uptime": "79.18%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "79.18%",
+    "uptime": "79.16%",
+    "uptimeDay": "91.61%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "79.16%",
     "time": 788,
     "timeDay": 659,
     "timeWeek": 858,
@@ -250,7 +250,7 @@
       "2026-07-11": 55,
       "2026-07-12": 57,
       "2026-07-19": 215,
-      "2026-07-26": 0
+      "2026-07-26": 121
     }
   },
   {
@@ -259,10 +259,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.tinker.haus.ico",
     "slug": "tinker-haus-nextcloud",
     "status": "down",
-    "uptime": "70.32%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.27%",
+    "uptime": "70.31%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "71.47%",
     "time": 3729,
     "timeDay": 1067,
@@ -414,7 +414,7 @@
       "2026-07-11": 55,
       "2026-07-12": 56,
       "2026-07-19": 210,
-      "2026-07-26": 0
+      "2026-07-26": 121
     }
   }
 ]
