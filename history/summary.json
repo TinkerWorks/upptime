@@ -4,17 +4,17 @@
     "url": "https://authentik.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/authentik.tinker.haus.ico",
     "slug": "tinker-haus-authentik",
-    "status": "up",
-    "uptime": "80.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.31%",
+    "status": "down",
+    "uptime": "80.12%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "79.23%",
-    "time": 1828,
-    "timeDay": 2662,
-    "timeWeek": 1810,
-    "timeMonth": 1710,
-    "timeYear": 1863,
+    "time": 1826,
+    "timeDay": 1637,
+    "timeWeek": 1691,
+    "timeMonth": 1711,
+    "timeYear": 1862,
     "dailyMinutesDown": {
       "2025-09-17": 36,
       "2025-09-29": 350,
@@ -140,7 +140,8 @@
       "2026-08-13": 93,
       "2026-08-14": 19,
       "2026-08-20": 32,
-      "2026-09-11": 160
+      "2026-09-11": 160,
+      "2026-09-13": 1
     }
   },
   {
@@ -148,17 +149,17 @@
     "url": "https://immich.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/immich.tinker.haus.ico",
     "slug": "tinker-haus-immich",
-    "status": "up",
-    "uptime": "80.27%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "80.32%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.31%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "79.43%",
-    "time": 783,
-    "timeDay": 904,
-    "timeWeek": 808,
-    "timeMonth": 744,
-    "timeYear": 787,
+    "time": 782,
+    "timeDay": 677,
+    "timeWeek": 772,
+    "timeMonth": 748,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2025-09-17": 56,
       "2025-09-29": 475,
@@ -272,7 +273,8 @@
       "2026-08-13": 93,
       "2026-08-14": 19,
       "2026-08-20": 32,
-      "2026-09-11": 160
+      "2026-09-11": 160,
+      "2026-09-13": 0
     }
   },
   {
@@ -280,17 +282,17 @@
     "url": "https://nextcloud.tinker.haus",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.tinker.haus.ico",
     "slug": "tinker-haus-nextcloud",
-    "status": "up",
-    "uptime": "71.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "71.48%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.31%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "78.96%",
-    "time": 1296,
-    "timeDay": 2290,
-    "timeWeek": 1467,
-    "timeMonth": 1319,
-    "timeYear": 1288,
+    "time": 1295,
+    "timeDay": 1365,
+    "timeWeek": 1364,
+    "timeMonth": 1324,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2025-09-17": 56,
       "2025-09-29": 854,
@@ -415,7 +417,8 @@
       "2026-08-13": 92,
       "2026-08-14": 18,
       "2026-08-20": 32,
-      "2026-09-11": 160
+      "2026-09-11": 160,
+      "2026-09-13": 0
     }
   }
 ]
